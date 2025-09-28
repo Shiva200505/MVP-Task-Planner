@@ -13,6 +13,8 @@ The MVP Task Planner is a sophisticated React application designed to help proje
 - **Persistent State**: The application state (tasks, constraints) is saved to local storage, so your data persists across sessions.
 - **Export Results**: Export your task selection results as PDF for sharing with stakeholders.
 
+<img width="2561" height="4197" alt="screencapture-localhost-5173-2025-09-28-23_49_58" src="https://github.com/user-attachments/assets/916b012f-cc06-483c-a3b5-5547b795bc15" />
+
 ## Tech Stack
 
 This project is built with a modern frontend stack:
