@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  .bg-background {
+    @apply bg-white dark:bg-slate-950;
+  }
+
+  .text-foreground {
+    @apply text-slate-950 dark:text-slate-50;
+  }
+}
