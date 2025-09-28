@@ -2,8 +2,6 @@
 
 The MVP Task Planner is a sophisticated React application designed to help project managers and teams optimize their MVP development process through intelligent task selection and resource allocation. It implements advanced constraint satisfaction algorithms to maximize project value while adhering to specified constraints like budget, time, and required skills.
 
-![MVP Task Planner](https://github.com/Shiva200505/MVP-Task-Planner/raw/main/public/screenshot.png)
-
 ## Features
 
 - **Task Management**: Add, edit, and delete tasks with attributes like price, hours, value, and required skills.
